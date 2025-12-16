@@ -22,7 +22,7 @@ TaskFlow adalah aplikasi manajemen tugas berbasis Kanban (mirip Trello) yang dib
 ## 💻 Cara Install di Lokal
 1. Clone repository ini:
    ```bash
-   git clone [https://github.com/username-kamu/taskflow-kanban.git](https://github.com/username-kamu/taskflow-kanban.git)
+   git clone https://github.com/ridwanariefm/taskflow-kanban.git
    
 2. Masuk ke folder:
      ```bash
