@@ -2,8 +2,7 @@
 
 TaskFlow adalah aplikasi manajemen tugas berbasis Kanban (mirip Trello) yang dibangun menggunakan teknologi modern Laravel. Project ini dibuat untuk mendemonstrasikan kemampuan Fullstack Development.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Screenshot+Aplikasi+TaskFlow) 
-*(Nanti kamu bisa ganti link di atas dengan screenshot asli aplikasimu)*
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/9b8d7bd8-a3e6-4ecb-b4e4-5fbd08474a12" />
 
 ## ✨ Fitur Utama
 - **Drag & Drop Sorting**: Menggeser kartu antar kolom dengan mulus menggunakan SortableJS.
